@@ -48,14 +48,14 @@ Tap on the settings gear to adjust the placement rate.
 
 ### Placement modes
 
-Face Drop features four different ways to place selfies in the world. :
+Face Drop features four different ways to place selfies in the world:
 
 - `Snap` — The default. Places a copy of your selfie in front of the camera.
-- `Drop` — Places copies of your selfie in front of the camera. It drops to the ground after a few seconds.
+- `Drop` — Places copies of your selfie in front of the camera. The selfies drop to the ground after a few seconds.
 - `Toss` — Throw copies of your selfie away from the camera.
-- `Pin` — Attach a copy of your selfie to a surface. Requires a device with a LiDAR sensor.
+- `Pin` — Attach a copy of your selfie to a real world surface. Requires a device with a LiDAR sensor. The target surface must be 5 meters or less so away.
 
-`Snap`, `Drop`, and `Toss` are available on all devices. However if you want the selfies placed in `Drop` or `Toss` mode to realistically bounce off of with real world objects, you need a device with a LiDAR sensor. 
+`Snap`, `Drop`, and `Toss` are available on all devices. However if you want the selfies placed in `Drop` or `Toss` mode to realistically bounce off of with real world objects, you need a device with a LiDAR sensor.
 
 `Pin` mode is exclusive to devices with a LiDAR sensor.
 
